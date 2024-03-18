@@ -1,0 +1,1 @@
+1. Application python-fastapi-create-edp-github-build has been successfully deployed!!
